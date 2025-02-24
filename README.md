@@ -1,5 +1,5 @@
 ﻿# Bookstore MERN Project
- that’s the right way to structure it! Here’s how you can format your epics:  
+   
 
 ---
 
